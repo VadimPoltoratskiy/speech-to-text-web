@@ -1,0 +1,1 @@
+To run project hit command `npm run start`
